@@ -41,10 +41,14 @@ Developed by: RegisterNumber:*/
 **RTL realization**
 
 **Output:**
+![alt text](<Screenshot 2025-11-22 104100.png>)
+
 
 **RTL**
 
 **Timing Diagram**
+![alt text](<Screenshot 2025-11-22 111258.png>)
+
 
 **Result:**
 
